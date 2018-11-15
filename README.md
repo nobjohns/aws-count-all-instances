@@ -1,0 +1,1 @@
+This tool helpful to count all instances in all AWS regions.
